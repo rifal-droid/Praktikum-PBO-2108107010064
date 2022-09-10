@@ -18,10 +18,10 @@ public class Nilai
             System.out.println("Nilai huruf : E");
         }
         else if(nilai>=41 && nilai<51){
-            System.out.println("Nilai huruf : E");
+            System.out.println("Nilai huruf : D");
         }
         else if(nilai>=51 && nilai<60){
-            System.out.println("Nilai huruf : D");
+            System.out.println("Nilai huruf : C");
         }
         else if(nilai>=60 && nilai<69){
             System.out.println("Nilai huruf : BC");
